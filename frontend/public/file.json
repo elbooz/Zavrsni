@@ -1,0 +1,17 @@
+{
+    "requestList": [{
+        "datumVrijeme": "2023-01-16T20:34:38.000",
+        "longitude": 78,
+        "latitude": 61
+    },
+    {
+        "datumVrijeme": "2023-01-15T20:34:38.000",
+        "longitude": 15,
+        "latitude": 20
+    },
+    {
+        "datumVrijeme": "2023-01-14T20:34:38.000",
+        "longitude": -20,
+        "latitude": -65
+    }]
+ }

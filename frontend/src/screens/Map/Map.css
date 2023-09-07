@@ -1,0 +1,11 @@
+.form-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter {
+  padding: 5px;
+  margin: 0px 14px 5px 15px;
+  height: 60px;
+  width: 150px;
+}

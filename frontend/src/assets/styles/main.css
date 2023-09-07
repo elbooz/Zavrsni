@@ -1,0 +1,35 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    display: block;
+    background-color: white;
+    border-radius: 20px;
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    padding: 0px 10px 20px 10px;
+}
+
+.btn {
+    font-weight: 600;
+    border: solid;
+    border-color: black;
+    padding: 5px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+.map { height: 90vh; }
+
+.filter {
+    display: flex;
+}

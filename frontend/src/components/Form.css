@@ -1,0 +1,31 @@
+.form {
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 160px;
+  background: linear-gradient(to bottom right, #5681c3, #33aa9a);
+}
+
+.form-content {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+p {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+input {
+  width: 200px;
+  height: 25px;
+  border: #184a6e solid 3px;
+}
